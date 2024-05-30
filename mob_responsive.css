@@ -1,0 +1,222 @@
+@media only screen and (max-width:768px){
+    .big_wrpapper{
+        width: 100vw;
+        overflow: hidden;
+    }
+    body{
+        width: 100vw;
+      overflow-x: hidden;
+      overflow-y: scroll;
+       
+    }
+    .portfolio_title{
+        width: 80%;
+    }
+    .portfolio_img{
+        height: 60vh;
+    }
+    .portfolio_big_img{
+        height: 100%;
+    }
+    .stats{
+        margin: 0;
+    }
+    #skills_title{
+        margin: 0;
+    }
+    .mob_nav{
+        width: 100vw;
+    }
+    .logo1 img{
+        width: 25vw;
+        height: 3vh;    
+    }
+    .section1_text_h1{
+        justify-content: center;
+        align-items: center;
+    }
+    .section1_text_h1 h1{
+        font-size: 50px ;
+    }
+    .section1_text p{
+        font-size: 20px;
+    }
+    .section1_button{
+        width: 40vw;
+    }   
+    .section1_cards{
+        justify-content: center;
+        height: 120vh;
+    }
+    .section1_card{
+    width: 90vw ;
+    height: 32%;
+    }
+    .portfolio_big_img{
+        width: 50vw;
+    }
+    .section2_button{
+        width: 30vw;
+    }
+    .stats{
+        height: 40vh;
+    }
+    .stats_boxes{
+        width: 98%;
+        justify-content: center;
+    }
+    .stats_box{
+        width: 43%;
+        height: 49%;
+    }
+    .stats_boxes{
+        gap: 10px;
+    }
+    
+    .skills_wrapper{
+        height: 55vh;
+    }
+    .skills{
+        height: 100%;
+    }
+    .service_box_wrapper{
+        height: 250vh;
+    }
+    .service_box{
+        width: 90%;
+        height: 40vh;
+    }
+    .pictures_wrapper{
+        height: 300vh;
+    }
+    .picture{
+        width: 95%;
+        height: 16%;
+    }
+    .img_hover_wrap{
+        width: 95%;
+        transform: translateY(-2vh) translateX(-2vw);
+    }
+    .big_review_container{
+        position: relative;
+    }
+    .img_hover{
+        height: 9vh;
+    }
+    .review_text p{
+        font-size: 22px;
+    }
+    .review_profile{
+        width: 60%;
+    }
+    .review_profile_text h5{
+        font-size: 19px;
+    }
+   .review_dots_wrap{
+    margin: 0;
+   }
+   .portfolio_title h1{
+    font-size: 25px;
+   }
+   .stats_box h1{
+    font-size: 40px;
+   }
+   .resume_title h1{
+    font-size: 27px;
+   }
+   .resume_row{
+    margin: 10px;
+   }
+   .service_icon{
+    padding: 0;
+   }
+    .review_dots{
+        width: 20%;  
+    }
+    .partners_wrap{
+        margin: 0;
+    }
+    .partners{
+        height: 30vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .partner {
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .partner img{
+        width: 100%;
+    }
+    .blog_cards{
+        justify-content: center;
+    }
+    .blog_card{
+        width: 75%;
+        height: 32%;
+    }
+    .newsletter_botton h1{
+        font-size: 12px;
+    }
+    .blog_text h4{
+        margin: 0;
+    }
+    .resume_row_text h2{
+        font-size: 18px;
+    }
+    .resume_row_text h3{
+        font-size: 16px;
+    }
+    .resume_row{
+        justify-content: space-between;
+    }
+    .resume_row_text{
+        width: 70%;
+    }
+    .mini_nav_wrapper{
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .mini_nav{
+        width: 98vw;
+    }
+    .mini_nav ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin: 0;
+        padding: 0;
+    }
+    .mini_nav li{
+        font-size: 14px;
+       margin: 0;
+    }
+    .top{
+        bottom: 5vh;
+    right: 5vw;
+    }
+    .li11{
+        margin: 0;
+    }
+    .mob_nav{
+        justify-content: flex-end;
+    }
+    .mob_nav a{
+        font-size: 16px;
+    }
+    .cursor{
+        display: none;
+    }
+    .surrounding-circle{
+        display: none;
+    }
+    .footer_wrap{
+        height: 5vh;
+    }
+}
