@@ -83,10 +83,26 @@
     }
     
     .skills_wrapper{
-        height: 55vh;
+        height: 70vh;
     }
     .skills{
+        width: 90%;
         height: 100%;
+    }
+    .skill_h21{
+        transform: translateX(75vw);
+    }
+    .skill_h23{
+        transform: translateX(75vw);
+    }
+    .skill_h24{
+        transform: translateX(60vw);
+    }
+    .skill_h25{
+        transform: translateX(68vw);
+    }
+    .skill_h26{
+        transform: translateX(75vw);
     }
     .service_box_wrapper{
         height: 250vh;
