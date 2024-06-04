@@ -9,6 +9,12 @@
       overflow-y: scroll;
        
     }
+    .mob_nav li{
+        margin: 0;
+    }
+    .mob_nav a{
+        margin: 0;
+    }
     .portfolio_title{
         width: 80%;
     }
@@ -25,7 +31,10 @@
         margin: 0;
     }
     .mob_nav{
+        margin-top: 7vh;
+        justify-content: center !important;
         width: 100vw;
+       max-height: 30vh;
     }
     .logo1 img{
         width: 25vw;
@@ -104,13 +113,13 @@
         height: 9vh;
     }
     .review_text p{
-        font-size: 22px;
+        font-size: 18px;
     }
     .review_profile{
         width: 60%;
     }
     .review_profile_text h5{
-        font-size: 19px;
+        font-size: 16px;
     }
    .review_dots_wrap{
     margin: 0;
@@ -121,6 +130,7 @@
    .stats_box h1{
     font-size: 40px;
    }
+  
    .resume_title h1{
     font-size: 27px;
    }
